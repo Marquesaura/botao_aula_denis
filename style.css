@@ -1,0 +1,30 @@
+body{
+    background-color: cadetblue;
+}
+.botao {
+    background-color: red;
+    padding: 15px;
+    margin: 20px;
+    font-size: 35px;
+    margin-top: 240px;
+    margin-left: 240px;
+    border-radius: 10px;
+    font-family: cursive, 'Times New Roman', Times, serif;
+}
+.titulo_botao{
+    margin-top: 240px;
+    margin-left: 240px;
+    font-size: 35px;
+    font-family: cursive, 'Times New Roman', Times, serif;
+}
+.botao:hover{
+    background-color: green;
+    transition: 0.4s;
+    color: wheat;
+}
+a{
+    font-size: 45px;
+    font-family: cursive, 'Times New Roman', Times, serif;
+    margin-top: 50px;
+    margin-left: 50px;
+}
